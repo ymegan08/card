@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e952a89a.css",
+    "main.js": "/static/js/main.ce1103ce.js",
+    "static/js/453.c8b2952c.chunk.js": "/static/js/453.c8b2952c.chunk.js",
+    "static/media/dance.gif": "/static/media/dance.abcc72eebc20299de394.gif",
+    "static/media/food.png": "/static/media/food.d1453f5ac71eda70565e.png",
+    "static/media/sparkling.png": "/static/media/sparkling.be45dd6487da7f62c5b3.png",
+    "static/media/hollywood.png": "/static/media/hollywood.bb423bcb20ad14f1a9aa.png",
+    "static/media/flowers.png": "/static/media/flowers.bdffb34d57f3a26ca605.png",
+    "static/media/ski.png": "/static/media/ski.297c8dec5efd99a733fc.png",
+    "static/media/bdaycap.png": "/static/media/bdaycap.ff9bede8f2c0ee004724.png",
+    "static/media/german.png": "/static/media/german.969a6cd0cdf08c6f61d6.png",
+    "static/media/blossom.png": "/static/media/blossom.6fc5f6ffd8729e6459e9.png",
+    "static/media/9.mp3": "/static/media/9.fdb2db0b1c685a5125e2.mp3",
+    "static/media/7.mp3": "/static/media/7.e663d5183a7b456b45fd.mp3",
+    "static/media/4.mp3": "/static/media/4.6a994624a4d6e9e0a899.mp3",
+    "static/media/6.mp3": "/static/media/6.d0830682a0e49a2287ef.mp3",
+    "index.html": "/index.html",
+    "main.e952a89a.css.map": "/static/css/main.e952a89a.css.map",
+    "main.ce1103ce.js.map": "/static/js/main.ce1103ce.js.map",
+    "453.c8b2952c.chunk.js.map": "/static/js/453.c8b2952c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e952a89a.css",
+    "static/js/main.ce1103ce.js"
+  ]
+}
